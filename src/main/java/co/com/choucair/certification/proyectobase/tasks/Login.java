@@ -11,6 +11,7 @@ public class Login implements Task {
 
     private String strUser;
     private String strPassword;
+    
     public Login (String strUser, String strPassword){
         this.strUser=strUser;
         this.strPassword=strPassword;
